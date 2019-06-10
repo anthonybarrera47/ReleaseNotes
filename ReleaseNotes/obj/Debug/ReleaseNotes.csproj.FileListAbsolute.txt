@@ -1,0 +1,16 @@
+C:\Users\Soporte\source\repos\ReleaseNotes\ReleaseNotes\bin\Debug\ReleaseNotes.exe.config
+C:\Users\Soporte\source\repos\ReleaseNotes\ReleaseNotes\bin\Debug\ReleaseNotes.exe
+C:\Users\Soporte\source\repos\ReleaseNotes\ReleaseNotes\bin\Debug\ReleaseNotes.pdb
+C:\Users\Soporte\source\repos\ReleaseNotes\ReleaseNotes\bin\Debug\EntityFramework.dll
+C:\Users\Soporte\source\repos\ReleaseNotes\ReleaseNotes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Soporte\source\repos\ReleaseNotes\ReleaseNotes\bin\Debug\EntityFramework.xml
+C:\Users\Soporte\source\repos\ReleaseNotes\ReleaseNotes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Soporte\source\repos\ReleaseNotes\ReleaseNotes\obj\Debug\ReleaseNotes.csprojAssemblyReference.cache
+C:\Users\Soporte\source\repos\ReleaseNotes\ReleaseNotes\obj\Debug\ReleaseNotes.Properties.Resources.resources
+C:\Users\Soporte\source\repos\ReleaseNotes\ReleaseNotes\obj\Debug\ReleaseNotes.csproj.GenerateResource.cache
+C:\Users\Soporte\source\repos\ReleaseNotes\ReleaseNotes\obj\Debug\ReleaseNotes.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\source\repos\ReleaseNotes\ReleaseNotes\obj\Debug\ReleaseNotes.csproj.CopyComplete
+C:\Users\Soporte\source\repos\ReleaseNotes\ReleaseNotes\obj\Debug\ReleaseNotes.exe
+C:\Users\Soporte\source\repos\ReleaseNotes\ReleaseNotes\obj\Debug\ReleaseNotes.pdb
+C:\Users\Soporte\source\repos\ReleaseNotes\ReleaseNotes\obj\Debug\ReleaseNotes.MainForm.resources
+C:\Users\Soporte\source\repos\ReleaseNotes\ReleaseNotes\obj\Debug\ReleaseNotes.UI.Registro.Cambios.resources
